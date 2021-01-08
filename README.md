@@ -1,3 +1,5 @@
+we have done this project for the internship purpose. here we have provided graphs and visualisations for the data we have taken.
+
 # covid-19-india-data
 This repository contains data and code for scrapping and cleaning data on covid-19 in India from https://www.mohfw.gov.in/ website and API provided by https://www.covid19india.org/
 
@@ -11,4 +13,4 @@ This repository contains data and code for scrapping and cleaning data on covid-
 * The api also provides data on tests, facitlities, no. of hospitals ...
 * More information about them can be found here : https://www.covid19india.org/about
 * https://api.covid19india.org/ has the list of all the apis that they have made availabe
-* Here is the github repo of the project : https://github.com/covid19india/covid19india-react
+* Here is the github repo of the project : https://github.com/reddy1666/advance-practice-final-/find/main
